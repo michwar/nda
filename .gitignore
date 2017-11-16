@@ -1,0 +1,16 @@
+# Intelij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+/out
+
+# Local configuration file
+/local.properties
+
+.DS_Store
+/build
+/captures
+
+/.settings
+/.gradle
